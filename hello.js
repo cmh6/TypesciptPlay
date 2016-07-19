@@ -9,7 +9,7 @@ var Greeter = (function () {
 }());
 var greeter = new Greeter("world");
 var button = document.createElement('button');
-button.textContent = "Say Hello";
+button.textContent = "Say Hello ";
 var label = document.createElement('div');
 label.textContent = "My Label";
 button.onclick = function () {
