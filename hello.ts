@@ -11,7 +11,7 @@ class Greeter {
 let greeter = new Greeter("world");
 
 let button = document.createElement('button');
-button.textContent = "Say Hello ";
+button.textContent = "Say Hello x";
 
 let label = document.createElement('div');
 label.textContent = "My Label";
